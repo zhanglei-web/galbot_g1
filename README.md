@@ -20,3 +20,4 @@ run ros2 node
 - Thanks to TheRobotStudio 🤗, [SO101](https://github.com/TheRobotStudio/SO-ARM100).
 
 ## Cite
+# galbot_g1
